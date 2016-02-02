@@ -1,0 +1,1 @@
+A JavaScript code tokenizer built with a modular architechture allowing the addition of new languages to the parser.
